@@ -1,12 +1,12 @@
-EMR-Spark-Job PROJECT
+# EMR-Spark-Job PROJECT
 
-objectives
+## objectives
 
 how to create an Amazon S3 bucket and an
 IAM role using the AWS Management Console.
 launching an Amazon EMR Serverless application
 
-Prerequisites
+## Prerequisites
 
 Before launching an Amazon EMR Serverless application, we need to create an S3 bucket to store output files and logs from the sample Spark Job we will be running.
 
