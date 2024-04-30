@@ -53,3 +53,5 @@ Finally, delete the IAM role that you created for Amazon EMR Serverless job.
 From the left navigation pane, choose Roles. Use the search bar and search for emrserverlessrole. Select the role, and then choose Delete.
 
 To confirm the deletion, enter the role name. Then, choose Delete. You have successfully deleted AWS services created during this demonstration.
+
+Resources -    https://github.com/johnny-chivers/emr-serverless
